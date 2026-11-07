@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://romemcg.github.io/sitemap.xml
+Sitemap: https://mark-gomez.vercel.app/sitemap.xml
